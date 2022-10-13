@@ -1,0 +1,20 @@
+:root {
+    --main-color: #ECEBE8;
+    --dark-color: #242424;
+    --light-color: #FFF;
+    --accent-color: #B7C09D;
+}
+
+.page {
+    background-color: var(--main-color);
+    color: var(--dark-color);
+    font-family: FormularLight, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 140%;
+
+    letter-spacing: -0.01em;
+    font-feature-settings: 'ss01' on;
+}
+
