@@ -3,6 +3,11 @@
 
 @import url(../blocks/page/page.css);
 
+/* Общие блоки и элементы */
+@import url(../blocks/button/button.css);
+@import url(../blocks/section/section.css);
+@import url(../blocks/section/__title/section__title.css);
+
 /* О проекте */
 @import url(../blocks/project/project.css);
 @import url(../blocks/project/__title/project__title.css);
