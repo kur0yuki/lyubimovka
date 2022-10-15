@@ -1,0 +1,13 @@
+.lyubimovka__title{
+  max-width: 450px;
+  width: 100%;
+  margin: calc(59px - 42px) 0 65px;
+
+  font-family: 'Neue Machina', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 70px;
+  letter-spacing: -0.01em;
+  color: #242424;
+}
