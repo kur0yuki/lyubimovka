@@ -1,0 +1,12 @@
+.theater-card__button{
+  margin-top: 16px;
+  width: 155px;
+  text-align: left;
+  border-bottom: 1px solid var(--dark-color);
+  border-left: 1px solid var(--dark-color);
+  box-sizing: border-box;
+  font-size: 16px;
+  line-height: 14px;
+  padding: 10px 10px 10px 28px;
+  background: url("../../../images/icon/arrow-right.svg") 0 center no-repeat;
+}

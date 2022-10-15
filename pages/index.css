@@ -13,3 +13,11 @@
 @import url(../blocks/project/__title/project__title.css);
 @import url(../blocks/project/__text/project__text.css);
 
+/* Карточка спектакля */
+@import url(../blocks/theater-card/theater-card.css);
+@import url(../blocks/theater-card/__text/theater-card__text.css);
+@import url(../blocks/theater-card/__date/theater-card__date.css);
+@import url(../blocks/theater-card/__title/theater-card__title.css);
+@import url(../blocks/theater-card/__authors/theater-card__authors.css);
+@import url(../blocks/theater-card/__info/theater-card__info.css);
+@import url(../blocks/theater-card/__button/theater-card__button.css);

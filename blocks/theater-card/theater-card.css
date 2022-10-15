@@ -1,0 +1,13 @@
+.theater-card {
+  max-width: 420px;
+  display: flex;
+  flex-direction: column;
+  background: url("../../images/theater-cover.png") no-repeat;
+  padding-left: 150px;
+  box-sizing: border-box;
+}
+
+
+
+
+
