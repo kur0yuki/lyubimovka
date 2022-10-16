@@ -1,0 +1,10 @@
+.gallery__title{
+  margin: 0 0 42px 362px;
+  max-width: 568px;
+  width: 100%;
+
+  font-family: 'Neue Machina Regular', sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+}
