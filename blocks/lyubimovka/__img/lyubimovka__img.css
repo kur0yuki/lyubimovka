@@ -1,0 +1,6 @@
+.lyubimovka__img{
+  max-width: 720px;
+  width: 100%;
+  min-height: 445px;
+  object-fit: none;
+}

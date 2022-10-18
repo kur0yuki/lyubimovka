@@ -8,6 +8,13 @@
 @import url(../blocks/section/section.css);
 @import url(../blocks/section/__title/section__title.css);
 
+/* Любимовка */
+@import url(../blocks/lyubimovka/lyubimovka.css);
+@import url(../blocks/lyubimovka/__link-text/lyubimovka__link-text.css);
+@import url(../blocks/lyubimovka/__text/lyubimovka__text.css);
+@import url(../blocks/lyubimovka/__title/lyubimovka__title.css);
+@import url(../blocks/lyubimovka/__img/lyubimovka__img.css);
+
 /* О проекте */
 @import url(../blocks/project/project.css);
 @import url(../blocks/project/__title/project__title.css);

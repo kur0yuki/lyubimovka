@@ -1,0 +1,23 @@
+.lyubimovka__link-text{
+  display: block;
+  max-width: 120px;
+  width: 100%;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 14px;
+  color: #242424;
+  text-decoration: none;
+  margin: 0 0 0 30px;
+  padding: 8px 0 9px 10px;
+  border-bottom: 1px solid #242424;
+  border-right: 1px solid #242424;
+  position: relative;
+}
+.lyubimovka__link-text::before{
+  content: '';
+  background-image: url(../../../images/arrow-link.svg);
+  width: 21px;
+  height: 13px;
+  position: absolute;
+  right: 0;
+}

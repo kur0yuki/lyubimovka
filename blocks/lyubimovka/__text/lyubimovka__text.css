@@ -1,0 +1,10 @@
+.lyubimovka__text{
+  max-width: 420px;
+  width: 100%;
+  margin: 0 120px 0 180px;
+
+  font-family: 'Neue Machina Regular', sans-serif;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 32px;
+}
