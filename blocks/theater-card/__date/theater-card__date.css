@@ -1,0 +1,6 @@
+.theater-card__date {
+  display: flex;
+  flex-direction: row;
+  gap: 42px;
+  margin-bottom: 4px;
+}

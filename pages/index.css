@@ -20,5 +20,18 @@
 @import url(../blocks/project/__title/project__title.css);
 @import url(../blocks/project/__text/project__text.css);
 
+/* Карточка спектакля */
+@import url(../blocks/theater-card/theater-card.css);
+@import url(../blocks/theater-card/__text/theater-card__text.css);
+@import url(../blocks/theater-card/__date/theater-card__date.css);
+@import url(../blocks/theater-card/__title/theater-card__title.css);
+@import url(../blocks/theater-card/__authors/theater-card__authors.css);
+@import url(../blocks/theater-card/__info/theater-card__info.css);
+@import url(../blocks/theater-card/__button/theater-card__button.css);
 
-
+/* Блок галерея */
+@import url(../blocks/gallery/gallery.css);
+@import url(../blocks/gallery/__title/gallery__title.css);
+@import url(../blocks/gallery/__images/gallery__images.css);
+@import url(../blocks/gallery/__list/gallery__list.css);
+@import url(../blocks/gallery/__img/gallery__img.css);

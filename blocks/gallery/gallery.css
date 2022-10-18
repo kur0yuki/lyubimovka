@@ -1,0 +1,5 @@
+.gallery{
+  max-width: 1440px;
+  width: 100%;
+  margin: calc(145px / 2) 0 calc(122px / 2);
+}
