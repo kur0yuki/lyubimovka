@@ -7,6 +7,7 @@
 @import url(../blocks/button/button.css);
 @import url(../blocks/section/section.css);
 @import url(../blocks/section/__title/section__title.css);
+@import url(../blocks/list/list.css);
 
 /* О проекте */
 @import url(../blocks/project/project.css);
