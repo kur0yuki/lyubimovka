@@ -1,6 +1,7 @@
 .header {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
+  max-width: 1440px;
   display: flex;
   flex-direction: row;
   align-items: center;
