@@ -8,6 +8,9 @@
 @import url(../blocks/section/section.css);
 @import url(../blocks/section/__title/section__title.css);
 
+/* main */
+@import url(../blocks/content/content.css);
+
 /* О проекте */
 @import url(../blocks/project/project.css);
 @import url(../blocks/project/__title/project__title.css);
